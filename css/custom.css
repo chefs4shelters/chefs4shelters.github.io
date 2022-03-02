@@ -437,3 +437,7 @@ img::-moz-selection {
   margin-right: auto;
   width: 50%;
 }
+
+.menuBody {
+background-color: black;
+}
